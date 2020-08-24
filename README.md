@@ -7,4 +7,4 @@
 
 
 - Fivem ready
-- Discord support server: https://discord.gg/waRwmhc
+
